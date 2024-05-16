@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNva25tZGUzdmY1Mjk3dWlzOW90dWxveGhneWw2Y3BhcDk2Znh6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bul4bNw60uhhQyI/giphy.gif"  />
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2286207513866139079/07CD0C4A756A9779C0354C2A9C5C83D0B9D2F785/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
