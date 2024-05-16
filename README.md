@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=316dwfzypl2z4yi47repy6gdy3ee&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 
 ###
