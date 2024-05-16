@@ -50,7 +50,7 @@
 </div>
 
 ###
-<img align="left" height="400"  src="https://spotify-github-profile.vercel.app/api/view?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false](https://spotify-github-profile.vercel.app/api/view?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+
 ###
 
 <br clear="both">
