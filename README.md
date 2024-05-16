@@ -12,13 +12,6 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/316dwfzypl2z4yi47repy6gdy3ee">
-    <img src="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=927c53c4bcc54800" alt="Spotify recently played"  />
-  </a>
-</div>
 
 
 ###
