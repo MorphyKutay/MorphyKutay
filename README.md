@@ -12,6 +12,11 @@
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2286207513866139079/07CD0C4A756A9779C0354C2A9C5C83D0B9D2F785/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MorphyKutay/count.svg?"  />
+</div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
