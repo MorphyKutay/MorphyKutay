@@ -3,11 +3,7 @@
 >
 >
 >He is a Cyber Security Researcher and Software Developer, proficient in Python, Java, C#, PHP, and C languages. Since 2018, he has been conducting security research and has >achieved high rankings in various CTF competitions such as HackIstanbul. He identifies himself as a BugHunter (CVE-2021-42245).
-```
-Hi 👋! My name is Kutay I'm a Software Developer & Cyber Security Researcher
 
-He is a Cyber Security Researcher and Software Developer, proficient in Python, Java, C#, PHP, and C languages. Since 2018, he has been conducting security research and has >achieved high rankings in various CTF competitions such as HackIstanbul. He identifies himself as a BugHunter (CVE-2021-42245).
-```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kutay.java) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kutaysec) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cyansec) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/exploitpy) 
 
