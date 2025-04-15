@@ -2,7 +2,7 @@
 >Hi 👋! My name is Kutay I'm a Software Developer & Cyber Security Researcher
 >
 >
->I am a seasoned Cyber Security Researcher and Software Developer with expertise in Python, Java, C#, PHP, and C programming languages. Since 2018, I have been actively engaged in security research, consistently delivering impactful results. I have achieved top rankings in several Capture the Flag (CTF) competitions, including HackIstanbul. I define myself as  BugHunter and have been officially credited with the discovery of multiple vulnerabilities, including CVE-2021-42245 and CVE-2024-6986.
+>I am a seasoned Cyber Security Researcher and Software Developer with expertise in Python, Java, C#, PHP, and C programming languages. Since 2018, I have been actively engaged in security research, consistently delivering impactful results. I have achieved top rankings in several Capture the Flag (CTF) competitions, including HackIstanbul. I define myself as a BugHunter and have been officially credited with the discovery of multiple vulnerabilities, including CVE-2021-42245 and CVE-2024-6986.
 >
 >In addition to my research activities, I actively participate in Bug Bounty programs on platforms such as HackerOne and Huntr, where I continue to identify and report critical security vulnerabilities in real-world applications.
 
