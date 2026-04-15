@@ -119,7 +119,9 @@ CTF / Red Teaming         ████████████░░░░░░
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=9F45F5&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=9F45F5&bar_color_cover=true" width="540" alt="Spotify Now Playing" />
+</a>
 
 </div>
 
