@@ -1,32 +1,42 @@
-<h1 align="center">Hi, I'm Kutay 👋</h1>
+<h1 align="center">Kutay Karaca</h1>
+
 <p align="center">
-  Software Developer • Cyber Security Researcher • Bug Bounty Hunter
+  <strong>Software Developer</strong> · <strong>Cybersecurity Researcher</strong> · <strong>Bug Bounty Hunter</strong>
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/kutay.java"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/kutaysec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitch.tv/cyansec"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://x.com/exploitpy"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.kutaysec.online/">Website</a> •
+  <a href="https://linkedin.com/in/kutaysec">LinkedIn</a> •
+  <a href="https://x.com/exploitpy">X</a> •
+  <a href="https://instagram.com/kutay.java">Instagram</a> •
+  <a href="https://twitch.tv/cyansec">Twitch</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MorphyKutay&style=flat&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
 ## About Me
 
-- I have been actively working in cybersecurity research since 2018.
-- I focus on vulnerability research, bug bounty, secure software development, and CTF challenges.
-- I was officially credited for vulnerabilities including **CVE-2021-42245** and **CVE-2024-6986**.
-- I consistently participate in platforms like **HackerOne** and **Huntr** to discover and responsibly report real-world security issues.
+I work at the intersection of cybersecurity and software engineering. Since 2018, I have focused on security research, bug bounty, and secure-by-design development practices.
 
-## Highlights
+- CVE credits: **CVE-2021-42245**, **CVE-2024-6986**
+- Active platforms: **HackerOne**, **Huntr**
+- Priority: Identify, validate, and responsibly disclose security issues with real-world impact
 
-- Top rankings in major CTF competitions, including **HackIstanbul**.
-- Strong software engineering background with security-first thinking.
-- Experience building and auditing applications across multiple ecosystems.
+## What I Focus On
+
+- Application Security
+- Vulnerability Research
+- Bug Bounty Workflows
+- Secure Software Development
+- CTF / Adversarial Thinking
 
 ## Tech Stack
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,33 +44,46 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Platforms & Tools
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## GitHub Stats
+## Currently
 
-![](https://github-readme-stats.vercel.app/api?username=MorphyKutay&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MorphyKutay&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- Working on security research notes and write-ups
+- Building small tools for offensive security and automation
+- Contributing to open-source projects with a security-first mindset
 
-## GitHub Trophies
+## GitHub Analytics
 
-![](https://github-profile-trophy.vercel.app/?username=MorphyKutay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MorphyKutay&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorphyKutay&theme=radical&hide_border=true&layout=compact" height="170" alt="Top languages" />
+</p>
 
-## Random Dev Quote
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MorphyKutay&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=MorphyKutay&icon=0&color=0)](https://visitcount.itsvg.in)
+## Support
 
-## Support Me
+<p>
+  If you like my work, you can support me here:
+</p>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/morphykutay)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/morphykutay)
