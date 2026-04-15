@@ -1,46 +1,56 @@
-<h1 align="center">KutaySec</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Developer</strong> · <strong>Cybersecurity Researcher</strong> · <strong>Bug Bounty Hunter</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9F45F5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+KutaySec+%F0%9F%91%BE;Security+Researcher;Bug+Bounty+Hunter;Software+Developer" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.kutaysec.online/">Website</a> •
-  <a href="https://linkedin.com/in/kutaysec">LinkedIn</a> •
-  <a href="https://x.com/exploitpy">X</a> •
-  <a href="https://instagram.com/kutay.java">Instagram</a> •
-  <a href="https://twitch.tv/cyansec">Twitch</a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MorphyKutay&style=flat&color=blueviolet" alt="profile views" />
-</p>
+**Software Developer · Cybersecurity Researcher · Bug Bounty Hunter**
+
+<br/>
+
+[![Website](https://img.shields.io/badge/kutaysec.online-9F45F5?style=for-the-badge&logo=safari&logoColor=white)](https://www.kutaysec.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kutaysec)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/exploitpy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kutay.java)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cyansec)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MorphyKutay&style=flat&color=9F45F5&label=Profile+Views)
+
+</div>
 
 ---
 
 ## About Me
 
-I work at the intersection of cybersecurity and software engineering. Since 2018, I have focused on security research, bug bounty, and secure-by-design development practices.
+I work at the intersection of **cybersecurity** and **software engineering**. Since 2018, I've focused on vulnerability research, bug bounty, and building secure-by-design software.
 
-- CVE credits: **CVE-2021-42245**, **CVE-2024-6986**
-- Active platforms: **HackerOne**, **Huntr**
-- Priority: Identify, validate, and responsibly disclose security issues with real-world impact
+- 🏆 CVE credits: **CVE-2021-42245** · **CVE-2024-6986**
+- 🔍 Active on: **HackerOne**, **Huntr**
+- 🎯 Mission: Find, validate, and responsibly disclose real-world security vulnerabilities
 
-## What I Focus On
+---
 
-- Application Security
-- Vulnerability Research
-- Bug Bounty Workflows
-- Secure Software Development
-- CTF / Adversarial Thinking
+## What I Do
+
+```text
+Application Security      ████████████████████  core focus
+Vulnerability Research    ██████████████████░░  active
+Bug Bounty Hunting        ████████████████░░░░  ongoing
+Secure Software Dev       ██████████████░░░░░░  daily practice
+CTF / Red Teaming         ████████████░░░░░░░░  competitive
+```
+
+---
 
 ## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -50,6 +60,8 @@ I work at the intersection of cybersecurity and software engineering. Since 2018
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Databases
@@ -57,33 +69,54 @@ I work at the intersection of cybersecurity and software engineering. Since 2018
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
 ## Currently
 
-- Working on security research notes and write-ups
-- Building small tools for offensive security and automation
-- Contributing to open-source projects with a security-first mindset
+- 📝 Writing security research notes and public write-ups
+- 🛠️ Building automation tools for offensive security workflows
+- 🌍 Contributing to open-source projects with a security-first mindset
 
-## GitHub Analytics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorphyKutay&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="170" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorphyKutay&theme=radical" height="170" alt="Top languages by repository" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
 
-## Highlights
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorphyKutay&theme=radical" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorphyKutay&theme=radical" height="180" alt="Top Languages by Repo" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorphyKutay&theme=radical" alt="GitHub highlights stats card" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorphyKutay&theme=radical" height="180" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MorphyKutay&theme=radical&utcOffset=3" height="180" alt="Productive Time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorphyKutay&theme=radical" alt="Profile Details" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MorphyKutay&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
 
 ## Support
 
-<p>
-  If you like my work, you can support me here:
-</p>
+If you find my work useful:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/morphykutay)
