@@ -1,4 +1,4 @@
-<h1 align="center">Kutay Karaca</h1>
+<h1 align="center">KutaySec</h1>
 
 <p align="center">
   <strong>Software Developer</strong> · <strong>Cybersecurity Researcher</strong> · <strong>Bug Bounty Hunter</strong>
@@ -67,17 +67,17 @@ I work at the intersection of cybersecurity and software engineering. Since 2018
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorphyKutay&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorphyKutay&theme=radical&hide_border=true&layout=compact" height="170" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorphyKutay&theme=radical" height="170" alt="Top languages by repository" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Trophies
+## Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MorphyKutay&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorphyKutay&theme=radical" alt="GitHub highlights stats card" />
 </p>
 
 ## Support
