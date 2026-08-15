@@ -12,9 +12,14 @@
 <a href="https://instagram.com/kutay.java"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://twitch.tv/cyansec"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
 
-<br/><br/>
+<br/>
 
+<img src="https://img.shields.io/github/followers/MorphyKutay?style=for-the-badge&color=9F45F5&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/MorphyKutay?style=for-the-badge&color=9F45F5&logo=github&logoColor=white&label=STARS" alt="Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MorphyKutay&label=REPOS&query=public_repos&color=9F45F5&style=for-the-badge" alt="Public Repos"/>
 <img src="https://komarev.com/ghpvc/?username=MorphyKutay&style=for-the-badge&color=9F45F5&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/>
 
 </div>
 
