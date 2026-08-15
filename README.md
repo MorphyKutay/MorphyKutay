@@ -24,7 +24,7 @@
 
 ## 👋 &nbsp;About Me
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/MorphyKutay/MorphyKutay/output/dist/snake.svg" alt="snake"/>
+<img align="right" width="230" src="https://raw.githubusercontent.com/MorphyKutay/MorphyKutay/output/snake.svg" alt="snake"/>
 
 I work at the intersection of **cybersecurity** and **software engineering**. Since 2018, I've focused on vulnerability research, bug bounty, and building secure-by-design software.
 
@@ -43,13 +43,17 @@ mission: >
 
 ## ⚡ &nbsp;What I Do
 
-```text
-Application Security      ████████████████████  core focus
-Vulnerability Research    ██████████████████░░  active
-Bug Bounty Hunting        ████████████████░░░░  ongoing
-Secure Software Dev       ██████████████░░░░░░  daily practice
-CTF / Red Teaming         ████████████░░░░░░░░  competitive
-```
+<div align="center">
+
+|  | Focus Area | Status |
+|:---:|:---|:---:|
+| 🛡️ | **Application Security** | ![](https://img.shields.io/badge/CORE%20FOCUS-9F45F5?style=for-the-badge) |
+| 🔍 | **Vulnerability Research** | ![](https://img.shields.io/badge/ACTIVE-A85EF6?style=for-the-badge) |
+| 🐛 | **Bug Bounty Hunting** | ![](https://img.shields.io/badge/ONGOING-B978F7?style=for-the-badge) |
+| 💻 | **Secure Software Dev** | ![](https://img.shields.io/badge/DAILY%20PRACTICE-CA92F8?style=for-the-badge) |
+| 🎯 | **CTF / Red Teaming** | ![](https://img.shields.io/badge/COMPETITIVE-DBACF9?style=for-the-badge) |
+
+</div>
 
 <br/>
 
@@ -85,8 +89,8 @@ CTF / Red Teaming         ████████████░░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MorphyKutay&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&icon_color=B183F7&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorphyKutay&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats-eta-plum.vercel.app/api?username=MorphyKutay&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&icon_color=B183F7&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-eta-plum.vercel.app/api/top-langs/?username=MorphyKutay&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&langs_count=8" alt="Top Languages" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true&background=0D0221&stroke=9F45F5&ring=9F45F5&fire=B183F7&currStreakLabel=9F45F5" alt="GitHub Streak" width="48%"/>
 
@@ -100,7 +104,7 @@ CTF / Red Teaming         ████████████░░░░░░
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MorphyKutay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=MorphyKutay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
