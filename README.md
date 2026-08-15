@@ -1,38 +1,47 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=9F45F5&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+KutaySec+%F0%9F%91%BE;Security+Researcher;Bug+Bounty+Hunter;Software+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kutay%20Nevzat&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:0F0326,50:4A0F8F,100:9F45F5" width="100%" alt="Header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=B183F7&center=true&vCenter=true&width=650&lines=Security+Researcher+%F0%9F%94%90;Bug+Bounty+Hunter+%F0%9F%90%9B;Software+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG"/>
 
 <br/>
 
-**Software Developer · Cybersecurity Researcher · Bug Bounty Hunter**
+<a href="https://www.kutaysec.online/"><img src="https://img.shields.io/badge/kutaysec.online-9F45F5?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+<a href="https://linkedin.com/in/kutaysec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/exploitpy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/kutay.java"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitch.tv/cyansec"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
 
-<br/>
+<br/><br/>
 
-[![Website](https://img.shields.io/badge/kutaysec.online-9F45F5?style=for-the-badge&logo=safari&logoColor=white)](https://www.kutaysec.online/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kutaysec)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/exploitpy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kutay.java)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/cyansec)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MorphyKutay&style=flat&color=9F45F5&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=MorphyKutay&style=for-the-badge&color=9F45F5&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0326,100:9F45F5&height=3&width=100%" width="100%" alt="divider"/>
+
+## 👋 &nbsp;About Me
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/MorphyKutay/MorphyKutay/output/dist/snake.svg" alt="snake"/>
 
 I work at the intersection of **cybersecurity** and **software engineering**. Since 2018, I've focused on vulnerability research, bug bounty, and building secure-by-design software.
 
-- 🏆 CVE credits: **CVE-2021-42245** · **CVE-2024-6986**
-- 🔍 Active on: **HackerOne**, **Huntr**
-- 🎯 Mission: Find, validate, and responsibly disclose real-world security vulnerabilities
+```yaml
+name: Kutay Nevzat
+role: Security Researcher & Software Developer
+focus: [AppSec, Vulnerability Research, Bug Bounty, Red Teaming]
+cve_credits: [CVE-2021-42245, CVE-2024-6986]
+platforms: [HackerOne, Huntr]
+mission: >
+  Find, validate, and responsibly disclose real-world
+  security vulnerabilities.
+```
 
----
+<br clear="right"/>
 
-## What I Do
+## ⚡ &nbsp;What I Do
 
 ```text
 Application Security      ████████████████████  core focus
@@ -42,93 +51,100 @@ Secure Software Dev       ██████████████░░░░
 CTF / Red Teaming         ████████████░░░░░░░░  competitive
 ```
 
----
+<br/>
 
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Platforms & Tools
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## Currently
-
-- 📝 Writing security research notes and public write-ups
-- 🛠️ Building automation tools for offensive security workflows
-- 🌍 Contributing to open-source projects with a security-first mindset
-
----
-
-## GitHub Stats
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorphyKutay&theme=radical" height="180" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MorphyKutay&theme=radical" height="180" alt="Top Languages by Repo" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,rust,go,java,c,php,ruby,bash&theme=dark" alt="Languages"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorphyKutay&theme=radical" height="180" alt="Top Languages by Commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MorphyKutay&theme=radical&utcOffset=3" height="180" alt="Productive Time" />
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorphyKutay&theme=radical" alt="Profile Details" />
+**Platforms & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,tensorflow&theme=dark" alt="Platforms"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
 
 </div>
 
----
+<br/>
 
-## Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0326,100:9F45F5&height=3&width=100%" width="100%" alt="divider"/>
+
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MorphyKutay&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=MorphyKutay&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&icon_color=B183F7&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorphyKutay&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&langs_count=8" alt="Top Languages" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true&background=0D0221&stroke=9F45F5&ring=9F45F5&fire=B183F7&currStreakLabel=9F45F5" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MorphyKutay&theme=react-dark&hide_border=true&bg_color=0D0221&color=B183F7&line=9F45F5&point=ffffff&area=true&area_color=9F45F5" alt="Contribution Graph" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## Streak
+## 🏆 &nbsp;Trophies
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=MorphyKutay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
 
 </div>
 
----
+<br/>
 
-## Now Playing
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0326,100:9F45F5&height=3&width=100%" width="100%" alt="divider"/>
+
+## 🎯 &nbsp;Currently
+
+<table align="center">
+<tr>
+<td>📝</td><td>Writing security research notes and public write-ups</td>
+</tr>
+<tr>
+<td>🛠️</td><td>Building automation tools for offensive security workflows</td>
+</tr>
+<tr>
+<td>🌍</td><td>Contributing to open-source projects with a security-first mindset</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎵 &nbsp;Now Playing
 
 <div align="center">
 
 <a href="https://github.com/MorphyKutay">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=9F45F5&bar_color_cover=true" width="540" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316dwfzypl2z4yi47repy6gdy3ee&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0D0221&interchange=true&bar_color=9F45F5&bar_color_cover=true" width="540" alt="Spotify Now Playing"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## Support
+## ☕ &nbsp;Support
 
-If you find my work useful:
+<div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/morphykutay)
+If you find my work useful, consider buying me a coffee ✨
+
+<a href="https://buymeacoffee.com/morphykutay"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9F45F5,50:4A0F8F,100:0F0326" width="100%" alt="Footer"/>
+</content>
