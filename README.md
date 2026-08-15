@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Kutay%20Nevzat&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:0F0326,50:4A0F8F,100:9F45F5" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Nevzat%20Kutay%20Aydo%C4%9Fdu&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:0F0326,50:4A0F8F,100:9F45F5" width="100%" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=B183F7&center=true&vCenter=true&width=650&lines=Security+Researcher+%F0%9F%94%90;Bug+Bounty+Hunter+%F0%9F%90%9B;Software+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG"/>
 
@@ -24,12 +24,10 @@
 
 ## 👋 &nbsp;About Me
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/MorphyKutay/MorphyKutay/output/snake.svg" alt="snake"/>
-
 I work at the intersection of **cybersecurity** and **software engineering**. Since 2018, I've focused on vulnerability research, bug bounty, and building secure-by-design software.
 
 ```yaml
-name: Kutay Nevzat
+name: Nevzat Kutay Aydoğdu
 role: Security Researcher & Software Developer
 focus: [AppSec, Vulnerability Research, Bug Bounty, Red Teaming]
 cve_credits: [CVE-2021-42245, CVE-2024-6986]
@@ -38,8 +36,6 @@ mission: >
   Find, validate, and responsibly disclose real-world
   security vulnerabilities.
 ```
-
-<br clear="right"/>
 
 ## ⚡ &nbsp;What I Do
 
@@ -50,7 +46,8 @@ mission: >
 | 🛡️ | **Application Security** | ![](https://img.shields.io/badge/CORE%20FOCUS-9F45F5?style=for-the-badge) |
 | 🔍 | **Vulnerability Research** | ![](https://img.shields.io/badge/ACTIVE-A85EF6?style=for-the-badge) |
 | 🐛 | **Bug Bounty Hunting** | ![](https://img.shields.io/badge/ONGOING-B978F7?style=for-the-badge) |
-| 💻 | **Secure Software Dev** | ![](https://img.shields.io/badge/DAILY%20PRACTICE-CA92F8?style=for-the-badge) |
+| 💻 | **Software Development** | ![](https://img.shields.io/badge/CORE%20FOCUS-9F45F5?style=for-the-badge) |
+| 🔒 | **Secure Software Dev** | ![](https://img.shields.io/badge/DAILY%20PRACTICE-CA92F8?style=for-the-badge) |
 | 🎯 | **CTF / Red Teaming** | ![](https://img.shields.io/badge/COMPETITIVE-DBACF9?style=for-the-badge) |
 
 </div>
@@ -89,10 +86,10 @@ mission: >
 
 <div align="center">
 
-<img src="https://github-readme-stats-eta-plum.vercel.app/api?username=MorphyKutay&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&icon_color=B183F7&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats-eta-plum.vercel.app/api/top-langs/?username=MorphyKutay&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=MorphyKutay&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&icon_color=B183F7" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MorphyKutay&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=9F45F5&langs_count=8" alt="Top Languages" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MorphyKutay&theme=radical&hide_border=true&background=0D0221&stroke=9F45F5&ring=9F45F5&fire=B183F7&currStreakLabel=9F45F5" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=MorphyKutay&theme=radical&hide_border=true&background=0D0221&stroke=9F45F5&ring=9F45F5&fire=B183F7&currStreakLabel=9F45F5" alt="GitHub Streak" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorphyKutay&theme=react-dark&hide_border=true&bg_color=0D0221&color=B183F7&line=9F45F5&point=ffffff&area=true&area_color=9F45F5" alt="Contribution Graph" width="100%"/>
 
@@ -147,6 +144,18 @@ mission: >
 If you find my work useful, consider buying me a coffee ✨
 
 <a href="https://buymeacoffee.com/morphykutay"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0326,100:9F45F5&height=3&width=100%" width="100%" alt="divider"/>
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MorphyKutay/MorphyKutay/output/snake.svg" alt="snake" width="100%"/>
 
 </div>
 
