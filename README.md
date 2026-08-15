@@ -36,7 +36,7 @@ name: Nevzat Kutay Aydoğdu
 role: Security Researcher & Software Developer
 focus: [AppSec, Vulnerability Research, Bug Bounty, Red Teaming]
 cve_credits: [CVE-2021-42245, CVE-2024-6986]
-platforms: [HackerOne, Huntr]
+platforms: [Intigriti, YesWeHack, HackerOne, Huntr]
 mission: >
   Find, validate, and responsibly disclose real-world
   security vulnerabilities.
